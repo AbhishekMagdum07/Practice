@@ -10,6 +10,8 @@ class DemoTest {
     @Test
     void addition(){
         assertEquals(5,runner.add(3,5));
+        System.out.println("Hello world");
     }
+
 
 }
